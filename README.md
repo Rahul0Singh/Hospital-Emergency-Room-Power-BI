@@ -12,12 +12,12 @@ An interactive and comprehensive dashboard designed to monitor and analyze the k
 
 
 1️⃣ Monthly View
-The Monthly View dashboard provides a detailed snapshot of ER performance for a specific month. It tracks key KPIs like patient volume, average wait times, patient satisfaction, and referrals, with demographic breakdowns by age, gender, and race.
+ dashboard provides a detailed of ER performance for a specific month. It tracks key KPIs like patient volume, average wait times, patient satisfaction, and referrals, with demographic breakdowns by age, gender, and race.
 
 
 2️⃣ Consolidated View
-The Consolidated View offers a high-level summary of ER metrics over a customizable date range. This dashboard is ideal for analyzing long-term trends in patient volume, wait times, and operational efficiency.
+ offers a high-level summary of ER metrics over a customizable date range. This dashboard is ideal for analyzing long-term trends in patient volume, wait times, and operational efficiency.
 
 
 3️⃣ Patient Details
-The Patient Details screen allows users to drill down into the raw data. It displays a comprehensive, filterable table of individual patient records, showing details such as admission status, wait time, and department referral.
+ screen allows users to drill down into the raw data. It displays a comprehensive, filterable table of individual patient records, showing details such as admission status, wait time, and department referral.
