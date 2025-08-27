@@ -1,4 +1,4 @@
-🏥 Hospital Emergency Room Dashboard
+## 🏥 Hospital Emergency Room Dashboard
 
 An interactive and comprehensive dashboard designed to monitor and analyze the key performance indicators (KPIs) of a hospital's Emergency Room. It provides insights into patient flow, wait times, satisfaction scores, and demographic trends through multiple interactive views.
 
